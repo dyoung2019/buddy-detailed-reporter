@@ -1,0 +1,6 @@
+{
+  "haxe.configurations": [ // one or more configurations for the haxe completion server
+      ["build.hxml"], // default hxml file is a normal Haxe argument too
+      ["test.hxml"], // test build file
+  ]
+}

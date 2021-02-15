@@ -1,0 +1,16 @@
+{
+  "name": "my-haxe-project",
+  "version": "1.0.0",
+  "description": "boilerplate for haxe bdd-test workspace",
+  "main": "index.js",
+  "scripts": {
+    "test": "lix download && haxe test.hxml",
+    "install": "lix download"
+  },
+  "keywords": ["haxe", "bdd", "lix"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lix": "^15.10.1"
+  }
+}
