@@ -1,28 +1,17 @@
-# my-haxe-project
+# haxe-js-colors
 
-haxe-js boilerplate for the year 2021
+## Thanks
 
-With 
-  - bdd testing for code
+### archive/index.js 
+- chalk / [ansi-styles](https://github.com/chalk/ansi-styles/blob/b890cf7edccf56215e5948d1cc385fa4e85a8969/index.js) terminal color scheme 
 
-## Instructions
+### archive/utils.ts
+  - jest reporter format source code
 
-1. install node (or nvm)
-1. install npm
-1. install haxelib
-1. ``git clone ``
-1. ``npm install``
-1. ``npm test``
+### archive/visible.js
+  - chalk unit test for color values
 
-[Multiple Configurations](https://github.com/vshaxe/vshaxe/wiki/Configuration#multiple-configurations)
 
-Requires to select which *.hxml configuration to which file
+https://unix.stackexchange.com/questions/192660/yellow-appears-as-brown-in-konsole
 
-## Uses 
-- npm
-- lix 
-  - haxelib lib bundler
-- [buddy](https://github.com/ciscoheat/buddy)
-  - bdd test library for haxe
-- [Samples](https://github.com/vshaxe/haxe-test-adapter/tree/master/samples) from vscode [haxe-test-adapter](https://github.com/vshaxe/haxe-test-adapter)
-  - 
+https://stackoverflow.com/questions/9781218/how-to-change-node-jss-console-font-color

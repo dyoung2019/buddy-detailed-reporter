@@ -4,10 +4,15 @@
   "description": "boilerplate for haxe bdd-test workspace",
   "main": "index.js",
   "scripts": {
+    "post": "lix +lib haxeparser",
     "test": "lix download && haxe test.hxml",
     "install": "lix download"
   },
-  "keywords": ["haxe", "bdd", "lix"],
+  "keywords": [
+    "haxe",
+    "bdd",
+    "lix"
+  ],
   "author": "",
   "license": "ISC",
   "devDependencies": {
