@@ -2,6 +2,9 @@
 
 ## Thanks
 
+### buddy
+https://github.com/ciscoheat/buddy
+
 ### archive/index.js 
 - chalk / [ansi-styles](https://github.com/chalk/ansi-styles/blob/b890cf7edccf56215e5948d1cc385fa4e85a8969/index.js) terminal color scheme 
 
